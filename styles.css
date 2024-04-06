@@ -1,0 +1,187 @@
+body{
+    background-image: url(img/background.png);
+}
+
+#header{
+    text-align: center;
+    background-image: url(img/header.png);
+}
+
+#logo{
+    height: 260px;
+    width: 500px;
+    padding: 2px;
+    border-radius: 50px;
+}
+
+
+
+h2{
+    text-align: center;
+    font-size: 35px;
+    margin: 0;
+    color: #c44b0e;
+}
+
+h3{
+    color: #c44b0e;
+}
+
+
+#cartas1{
+    background-color: #f7c964ad;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 50px;
+}
+
+#cartas2{
+    background-color:#f7c964ad;
+    display: flex;
+    justify-content: space-around;
+}
+#cartas3{
+    background-color:#f7c964ad;
+    display: flex;
+    justify-content: space-around;
+}
+#cartas4{
+    background-color: #f7c964ad;
+    display: flex;
+    justify-content: space-around;
+}
+#cartas5{
+    background-color: #f7c964ad ;
+    display: flex;
+    justify-content: space-around;
+}
+
+#c1{
+    height: 350px;
+    width: 200px;
+}
+
+#c2{
+    height: 350px;
+    width: 200px;
+}
+
+#c3{
+    height: 350px;
+    width: 200px;
+}
+
+#c4{
+    height: 350px;
+    width: 200px;
+}
+
+#c5{
+    height: 350px;
+    width: 200px;
+}
+
+#c6{
+    height: 350px;
+    width: 200px;
+}
+
+#c7{
+    height: 350px;
+    width: 200px;
+}
+
+#c8{
+    height: 350px;
+    width: 200px;
+}
+
+#c9{
+    height: 350px;
+    width: 200px;
+}
+
+#c10{
+    height: 350px;
+    width: 200px;
+}
+
+#c11{
+    height: 350px;
+    width: 200px;
+}
+
+#c12{
+    height: 350px;
+    width: 200px;
+}
+
+#c13{
+    height: 350px;
+    width: 200px;
+}
+
+#c14{
+    height: 350px;
+    width: 200px;
+}
+
+#c15{
+    height: 350px;
+    width: 200px;
+}
+
+#c16{
+    height: 350px;
+    width: 200px;
+}
+
+#c17{
+    height: 350px;
+    width: 200px;
+}
+
+#c18{
+    height: 350px;
+    width: 200px;
+}
+
+#c19{
+    height: 350px;
+    width: 200px;
+}
+
+#c20{
+    height: 350px;
+    width: 200px;
+}
+
+#c21{
+    height: 350px;
+    width: 200px;
+}
+
+#c22{
+    height: 350px;
+    width: 200px;
+}
+
+#c23{
+    height: 350px;
+    width: 200px;
+}
+
+#c24{
+    height: 350px;
+    width: 200px;
+}
+
+#c25{
+    height: 350px;
+    width: 200px;
+}
+
+#c26{
+    height: 350px;
+    width: 200px;
+}

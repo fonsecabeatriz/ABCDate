@@ -1,0 +1,40 @@
+criar estrutura HTML
+ - criei uam div por fileira de cartas
+ - criei uma div para cada carta 
+ - numerei e colori as divs para poder ter um controle visual maior 
+criar imagens dos cards - duas imagens, uma fixa e um apos o evento onclick
+- definir o texto das cartas 
+A Album de memórias 
+B Boliche
+C Cozinhar 
+D Degustar queijos e vinhos
+E Experimentar uma comida pela primeira vez 
+F Fazer exercício 
+G Galeria de arte
+H Hamburguer caseiro
+i ir ao cinema
+J jantar romântico
+k karaokê
+L livro de receitas personalizado
+M masssinha juntos
+-N netflix e petiscos 
+O oficina de pintura
+P piquenique
+Q quebra cabeças juntos
+R rodizio
+S spa
+T trilha
+U uno
+V ver o por do sol
+W waffle em uma cafeteria
+X xadrez 
+Y yoga
+Z zoologico
+
+fazer o css - alinhar e estilizar
+fazer o js - evento onclick e onmouse
+-function mudarImagem (id, nomeImagem1, nomeImagem2)
+usar essa var no lugar das strings
+passar os 3 parametros dentro do mudarImagem()
+
+
